@@ -10,5 +10,4 @@ We are going to implement a system which recognizes gestures input using webcam 
 
 ![untitled11](https://user-images.githubusercontent.com/40590365/50981573-49eec680-1521-11e9-9b4f-2b4974ff80d1.jpg)
 
-
-
+![untitled13](https://user-images.githubusercontent.com/40590365/50981782-ba95e300-1521-11e9-8eb9-a0e7ae185bdc.jpg)
