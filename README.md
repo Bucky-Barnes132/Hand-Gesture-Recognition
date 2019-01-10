@@ -8,5 +8,7 @@ Hand Gesture Recognition system is a Computer Vision concept which is based on M
 
 We are going to implement a system which recognizes gestures input using webcam & performs the desired tasks. We have taken images as an input which are taken from webcam and it has been done using OpenCV in Python. Then we are going to implement Neural Network for recognizing the web-cam input and initialize some specific task to this input.
 
+![untitled11](https://user-images.githubusercontent.com/40590365/50981573-49eec680-1521-11e9-9b4f-2b4974ff80d1.jpg)
+
 
 
